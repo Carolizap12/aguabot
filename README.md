@@ -1,6 +1,6 @@
 # Aguabot: prototipo de purificación de agua con luz UV-C
 
-Proyecto individual realizado en el liceo (Complejo Educativo Simón Candiales) por **Kimberly Zapata**. Es un prototipo de bajo costo que combina un filtro tradicional, desinfección con luz ultravioleta (UV-C) y un control con Arduino que se maneja desde una laptop.
+Proyecto individual de la materia **Programación II** (UNET, agosto de 2025), presentado en la exposición de proyectos de la materia, por **Kimberly Zapata**. Las pruebas de laboratorio con microscopio se realizaron en el laboratorio del Complejo Educativo Simón Candiales, con apoyo de una profesora. Es un prototipo de bajo costo que combina un filtro tradicional, desinfección con luz ultravioleta (UV-C) y un control con Arduino que se maneja desde una laptop.
 
 ![Prototipo de Aguabot](imagenes/prototipo.png)
 
